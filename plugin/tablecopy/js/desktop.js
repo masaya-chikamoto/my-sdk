@@ -1,5 +1,5 @@
 /*
- * New Condition Format plug-in
+ * Table Format plug-in
  * Copyright (c) 2017 Cybozu
  *
  * Licensed under the MIT License
