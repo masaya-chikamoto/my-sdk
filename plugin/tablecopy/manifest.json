@@ -8,7 +8,7 @@
 		"zh": "应用间表格复制插件"
 	},
 	"description": {
-		"ja": "lookup先アプリからデータをコピしてレコードを新規作成するプラグインです。",
+		"ja": "lookup先アプリからデータをコピーしてレコードを新規作成するプラグインです。",
 		"en": "It is plug-in which changes the color etc. of the item displayed according to conditions. ",
 		"zh": "本插件可从lookup所参照的应用中复制数据，并用此数据创建新记录。"
 	},
